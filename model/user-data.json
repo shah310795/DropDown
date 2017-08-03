@@ -1,0 +1,55 @@
+{
+	"data" : [{
+			"firstName" : "Bill",
+			"lastName" : "Gates",
+			"company" : "Microsoft Inc.",
+			"dob" : "Dec 25 1965",
+			"isWorking" : true,
+			"income": 9090903394,
+			"image" : "img/bill.jpg",
+			"isFemale" : false,
+			"comments" : [{
+				"author" : "XYZ",
+				"body" : "He is a fabulous guy"
+			},
+			{
+				"author" : "ABC",
+				"body" : "Is he still the richest guy?"
+			}]
+		}, {
+			"firstName" : "Steve",
+			"lastName" : "Jobs",
+			"company" : "Apple",
+			"dob" : "Dec 15 1968",
+			"isWorking" : false,
+			"income" : 999999,
+			"image" : "img/steve.jpg",
+			"isFemale" : false,
+			"comments" : [{
+				"author" : "MNO",
+				"body" : "Missing him"
+			},
+			{
+				"author" : "LPO",
+				"body" : "Apple fan boi here"
+			}]
+		}, {
+			"firstName" : "Trump",
+			"lastName" : "POS",
+			"company" : "U to the ASS to the A",
+			"dob" : "Jan 25 1965",
+			"isWorking" : true,
+			"income" : 11111111,
+			"image" : "img/trump.jpg",
+			"isFemale" : true,
+			"comments" : [{
+				"author" : "LUKE",
+				"body" : "Whu thes pos"
+			},
+			{
+				"author" : "SABER",
+				"body" : "OITNB"
+			}]
+		}
+	]
+}

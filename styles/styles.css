@@ -1,0 +1,15 @@
+.ng-valid.ng-dirty[type="email"]{
+	border : 1px green solid;
+}
+
+.ng-invalid.ng-dirty[type="email"] {
+	border: 1px red solid;
+}
+.ng-valid.ng-dirty.form-control {
+	border : 1px green solid;
+}
+
+.ng-invalid.form-control {
+	border: 1px red solid;
+}
+
